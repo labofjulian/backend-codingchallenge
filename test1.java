@@ -19,7 +19,7 @@ public class test1 {
 	 compare junit = new compare();
 	 
 	 /* Entering the next two zipcodes as parameters*/
-	 String res = junit.compare(55555, 66666)
+	 String res = junit.compare(55555, 66666);
 			 
 	/* Asserting the Test case as succesful or failure*/
 	 assert.equals("So you can't have any zipcodes outside of 55346 and 66666", res);
@@ -36,7 +36,7 @@ public class test1 {
 	 compare junit = new compare();
 	 
 	 /* Entering the next two zipcodes as parameters*/
-	 String res = junit.compare(55555, 66666)
+	 String res = junit.compare(55555, 66666);
 			 
 	/* Asserting the Test case as succesful or failure*/
 	 assert.equals("So you can't have any zipcodes outside of 55555 and 66665", res);
@@ -53,7 +53,7 @@ public class test1 {
 	 compare junit = new compare();
 	 
 	 /* Entering the next two zipcodes as parameters*/
-	 String res = junit.compare(55555, 66666)
+	 String res = junit.compare(55555, 66666);
 			 
 	/* Asserting the Test case as succesful or failure*/
 	 assert.equals("So you can't have any zipcodes outside of 55555 and 66666", res);
@@ -70,7 +70,7 @@ public class test1 {
 	 compare junit = new compare();
 	 
 	 /* Entering the next two zipcodes as parameters*/
-	 String res = junit.compare(55555, 66666)
+	 String res = junit.compare(55555, 66666);
 			 
 	/* Asserting the Test case as succesful or failure*/
 	 assert.equals("So you can't have any zipcodes outside of 55555 and 67000", res);
@@ -87,7 +87,7 @@ public class test1 {
 	 compare junit = new compare();
 	 
 	 /* Entering the next two zipcodes as parameters*/
-	 String res = junit.compare(55555, 67000)
+	 String res = junit.compare(55555, 67000);
 			 
 	/* Asserting the Test case as succesful or failure*/
 	 assert.equals("So you can't have any zipcodes outside of 35346 - 37000 or 55555 - 67000", res);
