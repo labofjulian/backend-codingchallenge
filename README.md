@@ -5,3 +5,4 @@ I created a simple console interface where you an enter the five digit zipcode b
 
 Testing cases are also provided in the test1.java file also provided within the same package (codingProject).
 
+To execute the program,go to codingchallenge1.java and execute it. To run unit tests, execute test1.java in your Junit IDE.
